@@ -1,0 +1,42 @@
+.Header {
+  min-height: 70px;
+  background-color: #ff8d3e;
+  font-size: 13px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color:#484848;
+}
+
+.Header-list {
+  list-style-type: none;
+  float: left;
+  margin-left: 10%;
+  display: flex;
+  font-weight:bold;
+}
+
+.login-button {
+  float: left;
+  font-size: 10px;
+  background-color: #6c6a6a;
+  color: #ff8d3e;
+  border-radius: 1.5rem;
+  border:0;
+  outline:0;
+  width: 8%;
+  height: 2rem;
+}
+
+.mypage-button {
+  border-radius: 1.5rem;
+  font-size: 10px;
+  float: left;
+  margin-left: 2%;
+  background-color: white;
+  width: 8%;
+  height: 2rem;
+  border:0;
+  outline:0;
+}

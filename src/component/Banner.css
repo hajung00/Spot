@@ -1,0 +1,36 @@
+.Banner {
+  background-color: #638085;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  font-size: 13px;
+}
+
+.Banner-item1 {
+  padding-left: 16%;
+  color: #ff8d3e;
+  display: flex;
+  margin-bottom: 0%;
+  margin-top: 10%;
+  font-size: 25px;
+}
+
+.Banner-item2 {
+  padding-left: 16%;
+  color: #484848;
+  display: flex;
+  white-space: pre-wrap;
+}
+
+.start-button {
+  border-radius: 1.5rem;
+  float: left;
+  margin-left: 16%;
+  color: white;
+  background-color: #484848;
+  width: 10%;
+  height: 2.5rem;
+  border: 0;
+  outline: 0;
+  font-size: 10px;
+}

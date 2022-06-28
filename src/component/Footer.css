@@ -1,0 +1,23 @@
+.Footer{
+    margin-top: auto;
+    height: 180px;
+
+  }
+  
+  .Footer-table{
+    
+    width: 60%;
+    margin:auto;
+    font-size: 10px;
+    text-align: left;
+    color: #484848;
+    justify-content:center;
+  }
+
+  .Footer-bottom{
+    display: flex;
+    justify-content:space-around;
+    font-size: 10px;
+    padding-right: 10%;
+  }
+  
